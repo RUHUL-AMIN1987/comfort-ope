@@ -12,7 +12,9 @@ const Header = () => {
     { name: 'Beauty & Care', href: '/beauty' },
     { name: 'About', href: '/about' },
     { name: 'Contact', href: '/contact' },
+     { name: 'Blog', href: '/blog' },
   ];
+   
 
   return (
     <header className="sticky top-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
