@@ -8,7 +8,7 @@ const Hero = () => {
           alt="Cozy, organized living space with warm natural lighting"
           className="w-full h-full object-cover"
         /> */}
-        <div className="absolute inset-0 bg-[#38533c]" />
+        <div className="absolute inset-0 bg-[#2E4A36]" />
       </div>
 
       {/* Content */}

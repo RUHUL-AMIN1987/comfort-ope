@@ -20,7 +20,7 @@ const Newsletter = () => {
   };
 
   return (
-    <section className="py-16 md:py-24 bg-[#38533c]">
+    <section className="py-16 md:py-24 bg-[#2E4A36]">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto text-center">
           <div className="w-16 h-16 rounded-full bg-primary-foreground/10 flex items-center justify-center mx-auto mb-6">
