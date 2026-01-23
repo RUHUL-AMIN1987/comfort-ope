@@ -20,13 +20,13 @@ const Newsletter = () => {
   };
 
   return (
-    <section className="py-16 md:py-24 bg-primary">
+    <section className="py-16 md:py-24 bg-[#38533c]">
       <div className="container mx-auto px-4">
         <div className="max-w-2xl mx-auto text-center">
           <div className="w-16 h-16 rounded-full bg-primary-foreground/10 flex items-center justify-center mx-auto mb-6">
             <Mail className="h-8 w-8 text-primary-foreground" />
           </div>
-          <h2 className="font-serif text-3xl md:text-4xl font-semibold text-primary-foreground mb-4">
+          <h2 className="font-serif text-3xl md:text-4xl font-semibold text-white mb-4">
             Stay Comfortable
           </h2>
           <p className="text-primary-foreground/80 mb-8">

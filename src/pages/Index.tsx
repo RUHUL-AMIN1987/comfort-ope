@@ -5,6 +5,7 @@ import Categories from '@/components/home/Categories';
 import TrustBadges from '@/components/home/TrustBadges';
 import AboutPreview from '@/components/home/AboutPreview';
 import Newsletter from '@/components/home/Newsletter';
+import BlogPage from '@/components/home/BlogPage';
 
 const Index = () => {
   return (
@@ -15,6 +16,7 @@ const Index = () => {
         <TrustBadges />
         <Categories />
         <AboutPreview />
+        <BlogPage></BlogPage>
         <Newsletter />
       </main>
       <Footer />
